@@ -1,0 +1,6 @@
+# Nix files
+/.pre-commit-config.yaml
+/result
+
+# Rust build artifacts
+/target
